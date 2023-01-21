@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The motivation and purpose behind this project was to create a text editor that can be used offline as well as installed onto any machine. It solves the problem of not having an offline and reliable text editor that can be used anywhere. I learned a lot about running scripts as well as generating service workers.
 
 ## Table of Contents
 
@@ -18,26 +13,17 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+After cloning the repo and doing an initial npm install all the user has to do is go to the native `package.json` file and run the scripts
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Link to deployed heroku app: [here]()
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![screenshot of application](./assets/screenshot.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-qualit
+MIT License
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
